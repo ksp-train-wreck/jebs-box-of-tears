@@ -1,0 +1,23 @@
+{
+  "spec": "2.0",
+  "mod_id": "JebsBoxOfTears",
+  "author": "Alex Sherwin",
+  "name": "Jebs Box of Tears",
+  "description": "As dense as Jebs sorrow",
+  "source": "https://github.com/ksp-train-wreck/jebs-box-of-tears",
+  "version": "0.1.0",
+  "version_check": "",
+  "ksp2_version": {
+    "min": "0.2.0",
+    "max": "*"
+  },
+  "dependencies": [
+    {
+      "id": "com.github.x606.spacewarp",
+      "version": {
+        "min": "1.8.0",
+        "max": "*"
+      }
+    }
+  ]
+}
