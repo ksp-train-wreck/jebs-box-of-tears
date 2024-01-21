@@ -6,7 +6,7 @@
   "description": "As dense as Jebs sorrow",
   "source": "https://github.com/ksp-train-wreck/jebs-box-of-tears",
   "version": "0.1.0",
-  "version_check": "",
+  "version_check": "https://raw.githubusercontent.com/ksp-train-wreck/jebs-box-of-tears/main/plugin_template/swinfo.json",
   "ksp2_version": {
     "min": "0.2.0",
     "max": "*"
